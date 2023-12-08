@@ -1,4 +1,4 @@
-# Race Results Web App
+# Final Project - Web App
 
 Welcome to the Race Results Web App! This project is a web application that collects, processes, and displays race event data. It was developed as a final project for the Python course DAB111 - Data Analytics for Business in the first semester by group 13.
 
