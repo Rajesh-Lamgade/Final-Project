@@ -15,7 +15,7 @@ To run this project, you need to have Python and pip installed on your system. F
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/race-results-web-app.git
+   git clone https://github.com/Rajesh-Lamgade/Final-Project.git
    ```
 
 2. Navigate to the project directory:
